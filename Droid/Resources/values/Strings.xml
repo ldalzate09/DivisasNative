@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Divisas Native</string>
+  <string name="Title">Divisas</string>
+  <string name="Pesos">Pesos:</string>
+  <string name="Convert">Convertir</string>
+  <string name="Dollars">Dólares:</string>
+  <string name="Euros">Euros:</string>
+  <string name="Pounds">Libras:</string>
+  <string name="Error">Error</string>
+  <string name="ErrorPesos">Debes ingresar un valor en pesos</string>
+  <string name="Accept">Aceptar</string>
+</resources>

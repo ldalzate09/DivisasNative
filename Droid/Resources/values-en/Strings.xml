@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Foreign Exchange</string>
+  <string name="Title">Foreign Exchange</string>
+  <string name="Pesos">Pesos:</string>
+  <string name="Convert">Convert</string>
+  <string name="Dollars">Dollars:</string>
+  <string name="Euros">Euros:</string>
+  <string name="Pounds">Pounds:</string>
+  <string name="Error">Error</string>
+  <string name="ErrorPesos">You must enter a value in pesos</string>
+  <string name="Accept">Accept</string>
+</resources>
